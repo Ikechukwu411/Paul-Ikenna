@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import Paul from "../assets/Ikenna1-removebg-preview.png";
+import Paul from "../assets/Ike2.jpg";
 import "bulma/css/bulma.min.css";
 import { FaDownload } from "react-icons/fa";
 

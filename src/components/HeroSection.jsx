@@ -1,5 +1,5 @@
 import React from "react";
-import HeroImage from "../assets/Untitled Project.jpg";
+import HeroImage from "../assets/Ike.jpg";
 import "./HeroSection.css";
 import "bulma/css/bulma.min.css";
 import ContactIcon from "./ContactIcon";
